@@ -1,0 +1,11 @@
+email-validator
+psycopg2
+python-multipart
+fastapi
+uvicorn[standard]
+python-jose[cryptography]
+passlib[bcrypt]
+sqlalchemy
+pydantic-settings
+alembic
+uuid
